@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1520455638
+#1521148584
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -13,7 +13,6 @@ images/tile-sheet2.png
 images/rock-sheet0.png
 images/foodcoin-sheet0.png
 images/foodcoin-sheet1.png
-images/foodcoin-sheet2.png
 images/deathoverlay-sheet0.png
 images/powerup-sheet0.png
 images/powerup-sheet1.png
@@ -32,13 +31,17 @@ images/firepowerup-sheet1.png
 images/rockparticle1.png
 images/rockparticle2.png
 images/starparticle.png
-images/buttongoleft-sheet0.png
-images/buttongoright-sheet0.png
 images/buttonjump-sheet0.png
 images/buttonaction-sheet0.png
+images/sanapad-sheet0.png
+images/sanastick-sheet0.png
+images/powerupbarholder-sheet0.png
+images/powerupbarbackground-sheet0.png
+images/tilebgpowerupbar.png
 images/tilebgforest.png
 images/tilebgsky.png
 images/tilebgfloor.png
+images/tilebgblackbackground.png
 images/sfontgeneralfont.png
 media/jump.m4a
 media/jump.ogg
