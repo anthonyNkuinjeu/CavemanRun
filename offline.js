@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1521395694,
+	"version": 1521398677,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,7 +43,7 @@
 		"images/tilebgsky.png",
 		"images/tilebgfloor.png",
 		"images/tilebgblackbackground.png",
-		"images/sfontgeneralfont.png",
+		"images/sfontgeneralfontcentertext.png",
 		"media/jump.m4a",
 		"media/jump.ogg",
 		"media/rockslide.m4a",

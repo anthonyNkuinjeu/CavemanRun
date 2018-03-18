@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1521395694
+#1521398677
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -42,7 +42,7 @@ images/tilebgforest.png
 images/tilebgsky.png
 images/tilebgfloor.png
 images/tilebgblackbackground.png
-images/sfontgeneralfont.png
+images/sfontgeneralfontcentertext.png
 media/jump.m4a
 media/jump.ogg
 media/rockslide.m4a

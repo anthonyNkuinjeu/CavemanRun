@@ -24993,11 +24993,11 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function,
 	cr.plugins_.Audio,
 	cr.plugins_.Arr,
-	cr.plugins_.Particles,
 	cr.plugins_.Sprite,
 	cr.plugins_.Spritefont2,
 	cr.plugins_.TiledBg,
 	cr.plugins_.Touch,
+	cr.plugins_.Particles,
 	cr.behaviors.Platform,
 	cr.behaviors.Timer,
 	cr.behaviors.Flash,
@@ -25084,7 +25084,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TiledBg.prototype.acts.SetWidth,
 	cr.plugins_.Sprite.prototype.acts.MoveToTop,
 	cr.plugins_.Spritefont2.prototype.cnds.IsBoolInstanceVarSet,
-	cr.system_object.prototype.exps.len,
 	cr.plugins_.Spritefont2.prototype.acts.SetBoolInstanceVar,
 	cr.plugins_.Spritefont2.prototype.acts.SetWidth,
 	cr.plugins_.Spritefont2.prototype.acts.SetScale,
@@ -25139,7 +25138,6 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.acts.SetIgnoreInput,
 	cr.plugins_.Sprite.prototype.acts.SetSize,
 	cr.plugins_.Sprite.prototype.cnds.CompareOpacity,
-	cr.plugins_.GAMEEConnector.prototype.acts.GameOver,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Audio.prototype.acts.Preload,
 	cr.plugins_.Audio.prototype.acts.StopAll,
@@ -25151,5 +25149,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio.prototype.acts.SetSilent,
 	cr.plugins_.TiledBg.prototype.acts.SetPos,
 	cr.plugins_.TiledBg.prototype.acts.SetSize,
-	cr.behaviors.Fade.prototype.cnds.OnFadeOutEnd
+	cr.behaviors.Fade.prototype.cnds.OnFadeOutEnd,
+	cr.plugins_.GAMEEConnector.prototype.acts.GameOver
 ];};
